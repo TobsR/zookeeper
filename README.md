@@ -1,2 +1,2 @@
 # zookeeper
-JetBrains Academy Learning Project
+learning project
